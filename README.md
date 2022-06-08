@@ -29,6 +29,8 @@ The Allure report will be generated at  ./reports_allure
 ```
 ## Integration with Testrail
 
+## Docker
+
 ## Project Structure
 
 ```
