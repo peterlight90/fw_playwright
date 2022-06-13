@@ -1,0 +1,102 @@
+{
+    "qa001": {
+        "api_url": "https://qa001.e-courier.com/qa001/software/XML/XML.asp",
+        "base_url": "https://qa001.e-courier.com/qa001/software/utility/login.cshtml",
+        "customer": {
+            "Destination": {
+                "address": "811 Castle Valley Blvd",
+                "city": "Rowlett",
+                "country": "USA",
+                "name": "McDonald",
+                "note": "",
+                "phone": "+3750965",
+                "room": "Volt",
+                "see": "Staff",
+                "state": "CO",
+                "zipcode": "81647"
+            },
+            "Pickup": {
+                "address": "652 E 5th St",
+                "city": "Rifle",
+                "country": "USA",
+                "name": "Kathryn Senor Elementary School",
+                "note": "",
+                "phone": "+12137402805",
+                "room": "master",
+                "see": "Director",
+                "state": "CO",
+                "zipcode": "81650"
+            },
+            "Pricing": {
+                "Cabinet": 1,
+                "DCL": 3,
+                "Interline": 2,
+                "LoadCore864": 2,
+                "Pieces": 2,
+                "Service": 3,
+                "Wait": 1,
+                "Weight": 1
+            },
+            "account address": {
+                "address": "2600 Willow Pass Rd",
+                "attention": "Guard",
+                "city": "Concord",
+                "contact": "Mr President",
+                "country": "USA",
+                "fax": "",
+                "name": "AutoCustomer",
+                "phone": "+12022268000",
+                "room": "2D152",
+                "see": "Capitol",
+                "state": "CA",
+                "zipcode": "94519"
+            },
+            "account_code": "4",
+            "id": "5"
+        },
+        "customer_url": "https://qa001.e-courier.com/qa001/software/customer/customer.asp",
+        "dispatch_group_id": "23",
+        "dispatch_station": "ATDispatch",
+        "driver_destination": {
+            "address": {
+                "address": "2201 NE 170th St",
+                "city": "North Miama Beach",
+                "country": "USA",
+                "email": "autodriverdestination@mailnesia.com",
+                "mobile id": "",
+                "name": "AutoDriverDestination",
+                "phone": "+13107760976",
+                "state": "FL",
+                "zipcode": "33160"
+            },
+            "driver code": "1001",
+            "driver id": "4"
+        },
+        "driver_group": "ATDrivers",
+        "driver_group_id": "22",
+        "driver_pickup": {
+            "address": {
+                "address": "607 S Soto St",
+                "city": "Los Angeles",
+                "country": "USA",
+                "email": "autodriverpickup@mailnesia.com",
+                "mobile id": "",
+                "name": "AutoDriverPickup",
+                "phone": "+13107760976",
+                "state": "CA",
+                "zipcode": "90023"
+            },
+            "driver code": "1523",
+            "driver id": "601"
+        },
+        "driver_url": "https://qa001.e-courier.com/qa001/software/driver/driver.asp",
+        "job_group": "ATJobGroup",
+        "main_url": "https://qa001.e-courier.com/qa001/software/main/main.cshtml",
+        "order_template": "#20",
+        "password": "123456",
+        "root_password": "xr7$Tl9#1",
+        "root_username": "sample",
+        "userid": "7",
+        "username": "automationtest"
+    }
+}
