@@ -1,6 +1,6 @@
 ## Prerequisites
 ```
-PlayWright latest
+PlayWright 1.22.0
 ```
 
 ## Installation
